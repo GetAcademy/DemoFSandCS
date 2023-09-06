@@ -2,9 +2,8 @@
 
 [<EntryPoint>]
 let main argv =
-    Demo6.run ()
+    Demo1.run ()
     0 
-
 
 (*
 
@@ -39,4 +38,5 @@ Terjes perspektiv:
     https://fsharpforfunandprofit.com/fourfromforty/
     https://github.com/GetAcademy/IntroToFunctionalProgrammingInCS
     https://github.com/GetAcademy/IntroFunctionalJS
+    https://mostly-adequate.gitbook.io/mostly-adequate-guide/
 *) 
